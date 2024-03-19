@@ -1,7 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'ItemModel.dart';
+import 'item_model.dart';
 
 class ItemRow extends StatelessWidget {
   const ItemRow({super.key, required this.itemModel, required this.onItemSelected});

@@ -1,11 +1,10 @@
 library dashboard_slider;
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'my_app_bar.dart';
 import 'item_row.dart';
-import 'ItemModel.dart';
+import 'item_model.dart';
 import 'slider_model.dart';
 import 'my_slider_item.dart';
 
